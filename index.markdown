@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+I'm using the home layout
